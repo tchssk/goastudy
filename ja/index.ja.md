@@ -445,3 +445,4 @@ https://github.com/goadesign-jp で作業。
     - Twitter の \#goadesign ハッシュタグ。
     - Gophers Slack の \#goa チャンネル。
     - Gophers Slack の \#goa-jp チャンネル。
+    - GitHub で Pull request を投げる。

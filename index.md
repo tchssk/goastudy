@@ -444,3 +444,4 @@ Maybe it is useful for Japanese developers (including me).
     - \#goadesign hashtag on Twitter.
     - \#goa channel on Gophers Slack.
     - \#goa-jp channel on Gophers Slack.
+    - Open a pull request on GitHub.
