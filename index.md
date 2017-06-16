@@ -136,7 +136,7 @@ It seemed it should return `400 Bad Request` when no payload provided but doesn'
     PayloadOptional bool
     ```
 
-2. Change to generate nil check for payload when `PayloadOptional` is not `true`.
+2. Change to generate nil check for payload when `PayloadOptional` is `false`.
 
 3. Add a DSL `OptionalPayload`. It turns `PayloadOptional` `true`.
 

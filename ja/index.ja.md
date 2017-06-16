@@ -136,7 +136,7 @@ curl localhost:8080/1
     PayloadOptional bool
     ```
 
-2. `PayloadOptional` が `true` のときペイロードの nil チェックを生成するようにする。
+2. `PayloadOptional` が `false` のときペイロードの nil チェックを生成するようにする。
 
 3. `OptionalPayload` DSL を追加する。それが `PayloadOptional` を `true` にする。
 
